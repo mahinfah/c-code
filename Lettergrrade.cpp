@@ -53,25 +53,6 @@ else if (num>=33){
 else {
     cout << "failed";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    getch () ;
-
+ getch () ;
  }
 
