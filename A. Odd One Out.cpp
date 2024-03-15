@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
 
-
+//vvvv
 int n ;
 cin>>n;
 int a[n*3];
